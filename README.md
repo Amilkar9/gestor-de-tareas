@@ -71,12 +71,12 @@ npm install
 
 ```bash
 cd frontend
-npm run dev
+npm run dev -- --host 0.0.0.0
 ```
 
 Abre la interfaz en:
 
-- http://localhost:5173
+- http://localhost:4173/
 
 ## Endpoints principales
 
